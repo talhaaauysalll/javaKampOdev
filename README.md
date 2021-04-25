@@ -8,3 +8,6 @@
   * Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.
   * İş sınıfı olarak tanımladığımızı düşündüğünüz bir class oluşturunuz. En az iki metot yazınız.
   
+   ## Elde Edilen Ekran Görüntüleri
+  ![ekranCiktisi1](https://user-images.githubusercontent.com/45605944/115997652-95431b00-a5ec-11eb-829d-b8ac02e93198.PNG)
+  
