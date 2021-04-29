@@ -1,12 +1,17 @@
-package kampOdev;
+package kampOdev2;
 
-public class Instructor {
-	int id;
-	String instructorName;
-	String instructorSurname;
-	public Instructor(int id,String instructorName,String instructorSurname) {
-		this.id=id;
-		this.instructorName=instructorName;
-		this.instructorSurname=instructorSurname;
+import kampOdev.User;
+
+public class Instructor extends User {
+	private String instructorCategoryName;
+
+	public String getInstructorCategoryName() {
+		return instructorCategoryName;
 	}
+
+	public void setInstructorCategoryName(String instructorCategoryName) {
+		this.instructorCategoryName = instructorCategoryName;
+	}
+	
+	
 }

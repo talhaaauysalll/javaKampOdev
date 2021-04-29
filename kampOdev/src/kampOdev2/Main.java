@@ -1,4 +1,4 @@
-package kampOdev;
+package kampOdev2;
 
 import kampOdev2.Instructor;
 import kampOdev2.InstructorManager;
