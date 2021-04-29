@@ -13,5 +13,5 @@ public class UserManager {
 		for(User user:users) {
 			System.out.println(user.getName()+" "+user.getSurname());
 		}
-	}
+	}//dadasds
 }
