@@ -1,9 +1,6 @@
 package kampOdev2;
 
-import kampOdev2.Instructor;
-import kampOdev2.InstructorManager;
-import kampOdev2.Student;
-import kampOdev2.StudentManager;
+
 
 public class Main {
 
@@ -46,6 +43,7 @@ public class Main {
 		studentManager.add(student1);
 		studentManager.getAll(students);
 		studentManager.getAllStudentClasses(students);
+		//ddasdasads
 		
 		
 	}

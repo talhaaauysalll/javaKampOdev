@@ -1,6 +1,6 @@
 package kampOdev2;
 
-import kampOdev.UserManager;
+
 
 public class InstructorManager extends UserManager{
 	

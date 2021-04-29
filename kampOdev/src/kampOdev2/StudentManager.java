@@ -1,6 +1,6 @@
 package kampOdev2;
 
-import kampOdev.UserManager;
+
 
 public class StudentManager extends UserManager {
 	public void getAllStudentClasses(Student[] students) {

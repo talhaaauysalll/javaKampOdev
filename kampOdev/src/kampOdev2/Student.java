@@ -1,6 +1,6 @@
 package kampOdev2;
 
-import kampOdev.User;
+
 
 public class Student extends User{
 	private String studentClass;
